@@ -36,7 +36,7 @@ This GitHub organization hosts our commercial projects and internal development 
 
 | 💻 Member | 🎭 Role |
 |:-----------|:--------|
-| **kitty_ilnazik / dev_kitty** | Fullstack Developer, Designer, Creator 🐾 |
+| **kitty_ilnazik / dev_kitty** | Fullstack Developer 🐾 |
 
 ### 🌐 Developer social networks
 
